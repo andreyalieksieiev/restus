@@ -1,0 +1,30 @@
+.OneCard {
+    background: #323234;
+    width: 120px;
+    border-radius: 4px;
+    margin: 20px 5px;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.taimBlock {
+    display: flex;
+    justify-content: space-around;
+    background: #323234;
+    height: 23px;
+    margin-bottom: 5px;
+    
+}
+
+.active {
+    background: #292929;
+}
+
+.checkInput {
+    display: none;
+}
+
+label {
+    padding: 5px 10px;
+    cursor: pointer;
+}

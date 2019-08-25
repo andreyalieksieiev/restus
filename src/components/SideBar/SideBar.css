@@ -1,0 +1,30 @@
+.Side {
+    background:#2b2b2d;
+    height: calc(100vh - 100px);
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;;
+    position: absolute;
+    left: 0;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0 0 0;
+}
+
+.sideDiv {
+    font-size: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.sideDiv2 {
+    -webkit-transform: rotate(-90deg);
+    word-wrap: none;
+    margin: 20px 0 0 0px;
+    width: 150px;
+    font-size: 13px;
+}

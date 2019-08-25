@@ -1,0 +1,26 @@
+.count  {
+   font-size: 35px;
+   font-weight: bold;
+   text-align: center;
+   display: block;
+}
+
+.default {
+   color: #a8a8aa;
+}
+
+.one {
+   color: #78b840;
+}
+
+.two {
+   color: #ac9e48
+}
+
+.three {
+   color: #85634e;
+}
+
+.four {
+   color: #7c4244;
+}
